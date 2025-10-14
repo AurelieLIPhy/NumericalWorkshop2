@@ -31,5 +31,9 @@ u = 2*x+3
 print(u)
 ```
 
+This is my change, I put some new Python code:
+```Python
+plt.plot(x,y)
+```
 
 
