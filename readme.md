@@ -21,11 +21,7 @@ What I plan to do in the next three years:
 ## Let's have mathematical formula 
 number of diese : size of the title
 
-<script type="text/javascript"
-  id="MathJax-script"
-  async
-  src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js">
-</script>
+
 A well-known one: $E=mc^2$
 
 To format code
